@@ -1,0 +1,10 @@
+{
+  "Author": "Sgr A*",
+  "Name": "Gamepad Selection (for Healers)",
+  "InternalName": "GamepadSelection",
+  "AssemblyVersion": "0.1.0",
+  "Description": "Using `y/b/a/x` and digipad `up/right/down/left` buttons to directly select party member no.1-8.\n\n❗: Should use the default **Job** sort order within same class.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 5,
+  "LoadPriority": 0
+}
